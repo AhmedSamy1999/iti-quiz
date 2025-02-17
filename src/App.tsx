@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Trophy, Brain } from 'lucide-react';
+import { Trophy } from 'lucide-react';
 
 const questions = [
   {
@@ -73,9 +73,13 @@ function App() {
       <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-md w-full">
           <div className="flex items-center justify-center mb-6">
-            <Brain className="w-12 h-12 text-purple-600" />
+            <img 
+              src="https://m.facebook.com/ITI.eg/?profile_tab_item_selected=photos" 
+              alt="Quiz Logo" 
+              className="w-32 h-32 object-contain"
+            />
           </div>
-          <h1 className="text-3xl font-bold text-center mb-8 text-gray-800">Welcome to the Quiz!</h1>
+          <h1 className="text-3xl font-bold text-center mb-8 text-gray-800">Welcome to the Cloud Computing Quiz!</h1>
           <input
             type="text"
             placeholder="Enter your name"
