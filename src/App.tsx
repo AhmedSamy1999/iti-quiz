@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Trophy } from 'lucide-react';
 
+
 const questions = [
   {
     question: "what does resources refer to in the cloud",
