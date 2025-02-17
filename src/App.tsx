@@ -73,12 +73,8 @@ function App() {
     return (
       <div className="min-h-screen bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center p-4">
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-md w-full">
+          
           <div className="flex items-center justify-center mb-6">
-            <img 
-              src="image.png" 
-              alt="Quiz Logo" 
-              className="w-32 h-32 object-contain"
-            />
           </div>
           <h1 className="text-3xl font-bold text-center mb-8 text-gray-800">Welcome to the Cloud Computing Quiz!</h1>
           <input
