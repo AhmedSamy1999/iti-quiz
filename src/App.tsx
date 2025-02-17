@@ -8,9 +8,9 @@ const questions = [
     correct: 1
   },
   {
-    question: "Which planet is known as the Red Planet?",
-    choices: ["Venus", "Mars", "Jupiter"],
-    correct: 1
+    question: "What is A Server?",
+    choices: ["personal computer", "high-end computer with strong processing power", "a device to toast bread"],
+    correct: 2
   }
 ];
 
