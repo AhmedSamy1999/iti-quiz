@@ -3,9 +3,9 @@ import { Trophy } from 'lucide-react';
 
 const questions = [
   {
-    question: "What is the capital of France?",
-    choices: ["London", "Berlin", "Paris"],
-    correct: 2
+    question: "what does resources refer to in the cloud",
+    choices: ["compute,networking,storage", "servers,cables,people", "applications and web products"],
+    correct: 1
   },
   {
     question: "Which planet is known as the Red Planet?",
