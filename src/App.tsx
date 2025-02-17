@@ -74,7 +74,7 @@ function App() {
         <div className="bg-white rounded-lg shadow-xl p-8 max-w-md w-full">
           <div className="flex items-center justify-center mb-6">
             <img 
-              src="https://drive.google.com/file/d/1474L2TH53FtDL-aIgVMufQiJ-g1CONcf/view?usp=sharing" 
+              src="image.png" 
               alt="Quiz Logo" 
               className="w-32 h-32 object-contain"
             />
