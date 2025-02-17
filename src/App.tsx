@@ -4,13 +4,13 @@ import { Trophy } from 'lucide-react';
 const questions = [
   {
     question: "what does resources refer to in the cloud",
-    choices: ["compute,networking,storage", "servers,cables,people", "applications and web products"],
-    correct: 1
+    choices: ["Applications and web Products", "Servers,Cables,People", "Compute,Networking,Storage"],
+    correct: 2
   },
   {
     question: "What is A Server?",
-    choices: ["personal computer", "high-end computer with strong processing power", "a device to toast bread"],
-    correct: 2
+    choices: ["A device to toast bread", "High-end computer with strong processing power", "A personal computer"],
+    correct: 1
   }
 ];
 
